@@ -1,6 +1,6 @@
 # Programacion
 Practica para los proyectos del curso de progrmacion
-# JOEL ZAPETA
+
 # God of War 4
 
 Es un videojuego de accion-aventura desarrollado por los estudios Santa Monica por Sony Interactive se profujo el 20 de abril del 2018. Un juevo exclusivo para la consola Play Station 4 (PS4).
