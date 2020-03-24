@@ -1,5 +1,5 @@
-# Programacion
-Practica para los proyectos del curso de progrmacion
+# Videojuegos
+Integrantes: Erick Alexander Chavez Gonazalez y Amilcar Oswaldo Corado de Leon.
 
 # God of War 4
 
