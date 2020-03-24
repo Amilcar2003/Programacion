@@ -1,3 +1,3 @@
-# Programcion
+# Programacion
 Practica para los proyectos del curso de progrmacion
 # JOEL ZAPETA
