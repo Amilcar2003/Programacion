@@ -13,7 +13,7 @@ Edicion Limitada:Cuenta con el juego, el steelbook y una copia fiscal del libro 
 
 Edicion Coleccionista: Incluye una estatua de 22 cm, creada a traves del equipo de escultura de Gente Giant, un mapa de tela, grabados de formato figura de los hermanos Huldra, el juego y el steelbook.
 
-# Red Dead Redeption 2
+# Red Dead Redemption 2
 
 Red Dead Redemption 2 es un videojuego de acción-aventura western, en un mundo abierto y en perspectiva de primera y tercera persona, con componentes para un jugador y multijugador. Fue desarrollado por Rockstar Studios. Es la precuela de Red Dead Redemption y el tercer juego de la saga Red Dead.
 
